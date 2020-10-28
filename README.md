@@ -1,0 +1,6 @@
+# Proyecto inicial de Backend
+
+Ejecutar el sgte codigo para desplegar el servidor
+....
+npm install
+....
